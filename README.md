@@ -6,4 +6,4 @@
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs?username=HeloCris&layout=compact&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=HeloCris&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=HeloCris&theme=tokyonight&hide_border=true).
