@@ -1,26 +1,9 @@
 # HeloCris
 
-Perfil atualizado — fevereiro/2026
-
-![Perfil principal](./profile-3d-contrib/profile-night-view.svg)
-
-Variações prontas para o README do GitHub:
-
 ![Night rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Night green](./profile-3d-contrib/profile-night-green.svg)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=HeloCris&theme=tokyonight&show_icons=true&hide_title=true)
 
-![Green](./profile-3d-contrib/profile-green.svg)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs?username=HeloCris&layout=compact&theme=tokyonight)
 
-![Green animado](./profile-3d-contrib/profile-green-animate.svg)
-
-![Season](./profile-3d-contrib/profile-season.svg)
-
-![Season animado](./profile-3d-contrib/profile-season-animate.svg)
-
-![South season](./profile-3d-contrib/profile-south-season.svg)
-
-![South season animado](./profile-3d-contrib/profile-south-season-animate.svg)
-
-![Git block](./profile-3d-contrib/profile-gitblock.svg)
-
+![Streak](https://streak-stats.demolab.com?user=HeloCris&theme=tokyonight&hide_border=true)
